@@ -301,3 +301,11 @@ It helps others discover the project and supports my portfolio.
 ## 📜 License
 
 This project is licensed under the **MIT License**.
+
+
+---
+
+## Latest Update
+
+- Improved project documentation.
+- Updated GitHub repository structure.
